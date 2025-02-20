@@ -1,4 +1,3 @@
-
 /*
 
 Task 1: Fibonacci Sequence Generator

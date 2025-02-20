@@ -21,5 +21,3 @@ class Program {
         Console.WriteLine("the sum of digits is {0}", sum);
     }
 }
-
-

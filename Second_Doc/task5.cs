@@ -1,3 +1,4 @@
+
 /*
 
 Task 5: Prime Number Checker
@@ -31,3 +32,4 @@ class Program {
         }
     }  
 }
+
