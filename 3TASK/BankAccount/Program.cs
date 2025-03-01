@@ -19,24 +19,6 @@ class BankAccount {
      string? _accountHolderName;
      int _accountBalance;
 
-    public string AccountNumber
-    {
-        get { return _accountNumber!; }
-        set { _accountNumber = value; }
-    }
-
-    public string HolderName
-    {
-        get {return _accountHolderName!; }
-        set {_accountHolderName = value; }
-    }
-
-    public int Balance
-    {
-        get { return _accountBalance; }
-        set { _accountBalance = value; }
-    }
-
     public BankAccount(string holderName)
     {   
         ++_instanceCount;
@@ -53,7 +35,7 @@ class BankAccount {
         } else {
             _accountNumber = $"{_instanceCount}";
         } 
-        Balance = 0;
+        _accountBalance = 0;
 
     }
 
@@ -66,24 +48,24 @@ class BankAccount {
     public void Deposit() {
         Console.WriteLine("How much of a deposit are you looking to make?");
         int cash = Convert.ToInt32(Console.ReadLine());
-        Balance += cash;
+        _accountBalance += cash;
         Console.WriteLine($"Dear {_accountHolderName}, the Deposit was done succesfully!\n");
     }
 
     public void Withdrawal() {
         Console.WriteLine("How much are you looking to take out?");
         int cash = Convert.ToInt32(Console.ReadLine());
-        if (Balance - cash < 0) {
+        if (_accountBalance - cash < 0) {
             Console.WriteLine("Insufficient Funds...\n");
             return;
         } else {
-            Balance -= cash;
+            _accountBalance -= cash;
             Console.WriteLine($"Withrawd: ${cash}\n");
         }
     }
 
     public void ShowInfo() {
-        Console.WriteLine($"Name:{_accountHolderName}\nID:{_accountNumber}\nBalance: ${Balance}\n");
+        Console.WriteLine($"Name:{_accountHolderName}\nID:{_accountNumber}\nBalance: ${_accountBalance}\n");
         Console.WriteLine("");
     }
     
