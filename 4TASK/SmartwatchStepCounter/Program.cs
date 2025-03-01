@@ -13,13 +13,11 @@ class SmartWatch {
     int _watchStepCount;
 
     public string OwnerName {
-        get { return _watchOwnerName; }
-        set { _watchOwnerName = value; }
+        get { return _watchOwnerName!; }
     }
 
     public int StepCount {
         get { return _watchStepCount;}
-        set { _watchStepCount = value; }
     }
 
     public SmartWatch(string ownerName) {

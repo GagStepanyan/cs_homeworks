@@ -35,24 +35,24 @@ class Program {
         Movie movie = new Movie();
 
         Console.WriteLine("Testing valid ratings:");
-
+      
         movie.Rating = 3;
         Console.WriteLine($"Rating set to: {movie.Rating}");
-
+      
         movie.Rating = 5;
         Console.WriteLine($"Rating set to: {movie.Rating}");
-
+      
         movie.Rating = 1;
         Console.WriteLine($"Rating set to: {movie.Rating}");
 
         Console.WriteLine("\nTesting invalid ratings:");
-
+      
         movie.Rating = 0;
         Console.WriteLine($"Rating (should not change): {movie.Rating}");
-
-        movie.Rating = 6;
+      
+        movie.Rating = 6;  
         Console.WriteLine($"Rating (should not change): {movie.Rating}");
-
+      
         movie.Rating = -1;
         Console.WriteLine($"Rating (should not change): {movie.Rating}");
 

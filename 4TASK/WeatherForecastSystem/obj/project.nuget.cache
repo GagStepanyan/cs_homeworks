@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hhVqeC0WCxqaMPa2V8SMtVBqepg0doWxd2chow48/ytR1a4Cz1Cj9/Z09m9lzz8djhdm6DxYD0QF+MNNKGWMEg==",
+  "dgSpecHash": "ztrDM4RNbhB8nii9KpnvFZ1cw6B6ctjlBgqqMriMujb7mEv9+ZaXtWhSJ00qASCi32tvTLOcTAfueQDX/WLjLA==",
   "success": true,
-  "projectFilePath": "/home/gagik/Desktop/Gag/csharp/4TASK/WeatherForecastSystem/4.csproj",
+  "projectFilePath": "/home/gagik/Desktop/Gag/csharp/fakeFolder/4TASK/WeatherForecastSystem/4.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

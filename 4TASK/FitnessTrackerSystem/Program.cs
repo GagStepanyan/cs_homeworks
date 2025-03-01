@@ -13,15 +13,6 @@ class WorkoutSession {
     string? _sessionExerciseType;
     double _sessionDurationInMinutes;
 
-    public string ExerciseType {
-        get { return _sessionExerciseType!; }
-        set { _sessionExerciseType = value;}
-    }
-
-    public double DurationInMinutes {
-        get {return _sessionDurationInMinutes;}
-        set { _sessionDurationInMinutes = value;}
-    }
 
     public WorkoutSession(string type) {
         _sessionExerciseType = type;

@@ -17,19 +17,16 @@ class FlightTicket {
     public string TicketPassengerName 
     {
         get {return _ticketPassangerName!; }
-        set { _ticketPassangerName = value;}
     }
 
     public int TicketFlightNumber
     {
         get { return _ticketFlightNumber; }
-        set { _ticketFlightNumber = value; }
     }
 
     public string TicketSeatNumber
     {
         get { return _ticketSeatNumber!; }
-        set { _ticketSeatNumber = value; }
     }
 
     public FlightTicket(string name, int number, string seat) {
@@ -107,11 +104,9 @@ class TicketManager {
             _managerTickets[i].ShowInfo();
         }
     }
-}
 
-class Program {
-    public static void Main() {
-        Console.WriteLine("Welcome !");
+    public static void Run() {
+         Console.WriteLine("Welcome !");
         TicketManager manager = new TicketManager();
         string? answ;
 
@@ -137,5 +132,11 @@ class Program {
         }
 
         Console.WriteLine("GoodBye !");
+    }
+}
+
+class Program {
+    public static void Main() {
+       TicketManager.Run();
     }
 }

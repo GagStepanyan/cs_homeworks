@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/gagik/Desktop/Gag/csharp/4TASK/1/1.csproj": {}
+    "/home/gagik/Desktop/Gag/csharp/fakeFolder/4TASK/StudentManagementSystem/1.csproj": {}
   },
   "projects": {
-    "/home/gagik/Desktop/Gag/csharp/4TASK/1/1.csproj": {
+    "/home/gagik/Desktop/Gag/csharp/fakeFolder/4TASK/StudentManagementSystem/1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/gagik/Desktop/Gag/csharp/4TASK/1/1.csproj",
+        "projectUniqueName": "/home/gagik/Desktop/Gag/csharp/fakeFolder/4TASK/StudentManagementSystem/1.csproj",
         "projectName": "1",
-        "projectPath": "/home/gagik/Desktop/Gag/csharp/4TASK/1/1.csproj",
+        "projectPath": "/home/gagik/Desktop/Gag/csharp/fakeFolder/4TASK/StudentManagementSystem/1.csproj",
         "packagesPath": "/home/gagik/.nuget/packages/",
-        "outputPath": "/home/gagik/Desktop/Gag/csharp/4TASK/1/obj/",
+        "outputPath": "/home/gagik/Desktop/Gag/csharp/fakeFolder/4TASK/StudentManagementSystem/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/gagik/.nuget/NuGet/NuGet.Config"

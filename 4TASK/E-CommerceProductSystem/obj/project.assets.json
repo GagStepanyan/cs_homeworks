@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/gagik/Desktop/Gag/csharp/4TASK/8/8.csproj",
+      "projectUniqueName": "/home/gagik/Desktop/Gag/csharp/fakeFolder/4TASK/E-CommerceProductSystem/8.csproj",
       "projectName": "8",
-      "projectPath": "/home/gagik/Desktop/Gag/csharp/4TASK/8/8.csproj",
+      "projectPath": "/home/gagik/Desktop/Gag/csharp/fakeFolder/4TASK/E-CommerceProductSystem/8.csproj",
       "packagesPath": "/home/gagik/.nuget/packages/",
-      "outputPath": "/home/gagik/Desktop/Gag/csharp/4TASK/8/obj/",
+      "outputPath": "/home/gagik/Desktop/Gag/csharp/fakeFolder/4TASK/E-CommerceProductSystem/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/gagik/.nuget/NuGet/NuGet.Config"
