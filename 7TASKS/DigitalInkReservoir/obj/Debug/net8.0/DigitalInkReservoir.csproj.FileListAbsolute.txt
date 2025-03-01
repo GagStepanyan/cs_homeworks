@@ -1,0 +1,14 @@
+/home/gagik/Desktop/Gag/csharp/7TASKS/DigitalInkReservoir/obj/Debug/net8.0/DigitalInkReservoir.GeneratedMSBuildEditorConfig.editorconfig
+/home/gagik/Desktop/Gag/csharp/7TASKS/DigitalInkReservoir/obj/Debug/net8.0/DigitalInkReservoir.AssemblyInfoInputs.cache
+/home/gagik/Desktop/Gag/csharp/7TASKS/DigitalInkReservoir/obj/Debug/net8.0/DigitalInkReservoir.AssemblyInfo.cs
+/home/gagik/Desktop/Gag/csharp/7TASKS/DigitalInkReservoir/obj/Debug/net8.0/DigitalInkReservoir.csproj.CoreCompileInputs.cache
+/home/gagik/Desktop/Gag/csharp/7TASKS/DigitalInkReservoir/bin/Debug/net8.0/DigitalInkReservoir
+/home/gagik/Desktop/Gag/csharp/7TASKS/DigitalInkReservoir/bin/Debug/net8.0/DigitalInkReservoir.deps.json
+/home/gagik/Desktop/Gag/csharp/7TASKS/DigitalInkReservoir/bin/Debug/net8.0/DigitalInkReservoir.runtimeconfig.json
+/home/gagik/Desktop/Gag/csharp/7TASKS/DigitalInkReservoir/bin/Debug/net8.0/DigitalInkReservoir.dll
+/home/gagik/Desktop/Gag/csharp/7TASKS/DigitalInkReservoir/bin/Debug/net8.0/DigitalInkReservoir.pdb
+/home/gagik/Desktop/Gag/csharp/7TASKS/DigitalInkReservoir/obj/Debug/net8.0/DigitalInkReservoir.dll
+/home/gagik/Desktop/Gag/csharp/7TASKS/DigitalInkReservoir/obj/Debug/net8.0/refint/DigitalInkReservoir.dll
+/home/gagik/Desktop/Gag/csharp/7TASKS/DigitalInkReservoir/obj/Debug/net8.0/DigitalInkReservoir.pdb
+/home/gagik/Desktop/Gag/csharp/7TASKS/DigitalInkReservoir/obj/Debug/net8.0/DigitalInkReservoir.genruntimeconfig.cache
+/home/gagik/Desktop/Gag/csharp/7TASKS/DigitalInkReservoir/obj/Debug/net8.0/ref/DigitalInkReservoir.dll

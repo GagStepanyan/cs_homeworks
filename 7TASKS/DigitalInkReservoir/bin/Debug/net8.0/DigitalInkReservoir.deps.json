@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DigitalInkReservoir/1.0.0": {
+        "runtime": {
+          "DigitalInkReservoir.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DigitalInkReservoir/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

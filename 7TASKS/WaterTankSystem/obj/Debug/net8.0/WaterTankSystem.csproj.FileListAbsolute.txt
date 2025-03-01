@@ -1,0 +1,14 @@
+/home/gagik/Desktop/Gag/csharp/7TASKS/WaterTankSystem/obj/Debug/net8.0/WaterTankSystem.GeneratedMSBuildEditorConfig.editorconfig
+/home/gagik/Desktop/Gag/csharp/7TASKS/WaterTankSystem/obj/Debug/net8.0/WaterTankSystem.AssemblyInfoInputs.cache
+/home/gagik/Desktop/Gag/csharp/7TASKS/WaterTankSystem/obj/Debug/net8.0/WaterTankSystem.AssemblyInfo.cs
+/home/gagik/Desktop/Gag/csharp/7TASKS/WaterTankSystem/obj/Debug/net8.0/WaterTankSystem.csproj.CoreCompileInputs.cache
+/home/gagik/Desktop/Gag/csharp/7TASKS/WaterTankSystem/bin/Debug/net8.0/WaterTankSystem
+/home/gagik/Desktop/Gag/csharp/7TASKS/WaterTankSystem/bin/Debug/net8.0/WaterTankSystem.deps.json
+/home/gagik/Desktop/Gag/csharp/7TASKS/WaterTankSystem/bin/Debug/net8.0/WaterTankSystem.runtimeconfig.json
+/home/gagik/Desktop/Gag/csharp/7TASKS/WaterTankSystem/bin/Debug/net8.0/WaterTankSystem.dll
+/home/gagik/Desktop/Gag/csharp/7TASKS/WaterTankSystem/bin/Debug/net8.0/WaterTankSystem.pdb
+/home/gagik/Desktop/Gag/csharp/7TASKS/WaterTankSystem/obj/Debug/net8.0/WaterTankSystem.dll
+/home/gagik/Desktop/Gag/csharp/7TASKS/WaterTankSystem/obj/Debug/net8.0/refint/WaterTankSystem.dll
+/home/gagik/Desktop/Gag/csharp/7TASKS/WaterTankSystem/obj/Debug/net8.0/WaterTankSystem.pdb
+/home/gagik/Desktop/Gag/csharp/7TASKS/WaterTankSystem/obj/Debug/net8.0/WaterTankSystem.genruntimeconfig.cache
+/home/gagik/Desktop/Gag/csharp/7TASKS/WaterTankSystem/obj/Debug/net8.0/ref/WaterTankSystem.dll
