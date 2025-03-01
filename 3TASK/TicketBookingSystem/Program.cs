@@ -20,19 +20,16 @@ class MovieTicket {
     public string MovieName
     {
         get { return _ticketMovieName!; }
-        set { _ticketMovieName = value; }
     }
 
     public int SeatNumber
     {
         get {return _ticketSeatNumber; }
-        set { _ticketSeatNumber = value;}
     }
 
     public bool IsBooked
     {
         get { return _ticketIsBooked;}
-        set { _ticketIsBooked = value;}
     }
 
     public MovieTicket(string movename, int seatnumber) {

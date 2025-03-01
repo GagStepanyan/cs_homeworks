@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/gagik/Desktop/Gag/csharp/3TASK/1/7/7.csproj",
+      "projectUniqueName": "/home/gagik/Desktop/Gag/csharp/fakeFolder/3TASK/TicketBookingSystem/7.csproj",
       "projectName": "7",
-      "projectPath": "/home/gagik/Desktop/Gag/csharp/3TASK/1/7/7.csproj",
+      "projectPath": "/home/gagik/Desktop/Gag/csharp/fakeFolder/3TASK/TicketBookingSystem/7.csproj",
       "packagesPath": "/home/gagik/.nuget/packages/",
-      "outputPath": "/home/gagik/Desktop/Gag/csharp/3TASK/1/7/obj/",
+      "outputPath": "/home/gagik/Desktop/Gag/csharp/fakeFolder/3TASK/TicketBookingSystem/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/gagik/.nuget/NuGet/NuGet.Config"

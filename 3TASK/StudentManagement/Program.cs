@@ -15,23 +15,6 @@ class Student {
      string? _studentAge;
      string? _studentGrade;
 
-    public string Name
-    {
-        get { return _studentName!; }
-        set { _studentName = value; }
-    }
-
-    public string Age
-    {
-        get { return _studentAge!;}
-        set { _studentAge = value; }
-    }
-
-    public string Grade
-    {
-        get {return _studentGrade!;}
-        set { _studentGrade = value;}
-    }
 
     public Student () {
         Console.WriteLine("enter name");

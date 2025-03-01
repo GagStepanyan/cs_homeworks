@@ -19,19 +19,16 @@ class Car {
     public string CarModel
     {
         get { return _carModel!; }
-        set { _carModel = value; }
     }
 
     public int CarYear
     {
         get { return _carYear; }
-        set { _carYear = value; }
     }
 
     public bool CarIsRented
     {
         get { return _carIsRented;}
-        set { _carIsRented = value;}
     }
 
     public Car(string model, int year) {

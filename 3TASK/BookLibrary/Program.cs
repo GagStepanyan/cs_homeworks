@@ -20,13 +20,11 @@ class Book {
     public string Title
     {
         get { return _bookTitle!; }
-        set { _bookTitle = value; }
     }
 
     public string Author
     {
         get { return _bookAuthor!; }
-        set { _bookAuthor = value; }
     }
 
     public Book(string title, string author) {

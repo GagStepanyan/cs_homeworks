@@ -15,33 +15,12 @@ using System;
 
 class Employee {
     
-    private string? _employeeName;
-    public string Name
-    {
-        get { return _employeeName!; }
-        set { _employeeName = value; }
-    }
-
     private string? _employeePosition;
-    public string Position
-    {
-        get { return _employeePosition!; }
-        set { _employeePosition = value; }
-    }
-
+    private string? _employeeName;
     private double _employeeSalaryPerHour;
-    public double SalaryPerHour 
-    {
-        get { return _employeeSalaryPerHour!; }
-        set { _employeeSalaryPerHour = value; }
-    }
 
     private double _employeeHoursWorked;
-    public double HoursWorked 
-    {
-        get { return _employeeHoursWorked!; }
-        set { _employeeHoursWorked = value; }
-    }
+
 
 
     

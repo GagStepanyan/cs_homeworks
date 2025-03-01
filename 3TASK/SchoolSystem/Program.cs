@@ -19,18 +19,15 @@ class Student {
     public string StudentName
     {
         get { return _studentName!; }
-        set { _studentName = value; }
     } 
     public int StudentAge
     {
         get { return _studentAge!; }
-        set { _studentAge = value; }
     }
 
     public int StudentGrade
     {
         get { return _studentGrade!; }
-        set { _studentGrade = value; }
     } 
 
     public Student(string name, int age, int grade) {
@@ -58,19 +55,16 @@ class Teacher {
     public string TeacherName 
     {
         get { return _teacherName!; }
-        set { _teacherName = value; }
     }
 
     public string TeacherSubject 
     {
         get { return _teacherSubject!; }
-        set { _teacherSubject = value; }
     }
 
     public double YearsOfExperience
     {
         get {return _teacherYearsOfExperience; }
-        set { _teacherYearsOfExperience = value; }  
     }
 
     public Teacher (string name, string subject, double years) {
