@@ -1,0 +1,14 @@
+/home/gagik/Desktop/Gag/csharp/4TASK/6/obj/Debug/net8.0/6.GeneratedMSBuildEditorConfig.editorconfig
+/home/gagik/Desktop/Gag/csharp/4TASK/6/obj/Debug/net8.0/6.AssemblyInfoInputs.cache
+/home/gagik/Desktop/Gag/csharp/4TASK/6/obj/Debug/net8.0/6.AssemblyInfo.cs
+/home/gagik/Desktop/Gag/csharp/4TASK/6/obj/Debug/net8.0/6.csproj.CoreCompileInputs.cache
+/home/gagik/Desktop/Gag/csharp/4TASK/6/bin/Debug/net8.0/6
+/home/gagik/Desktop/Gag/csharp/4TASK/6/bin/Debug/net8.0/6.deps.json
+/home/gagik/Desktop/Gag/csharp/4TASK/6/bin/Debug/net8.0/6.runtimeconfig.json
+/home/gagik/Desktop/Gag/csharp/4TASK/6/bin/Debug/net8.0/6.dll
+/home/gagik/Desktop/Gag/csharp/4TASK/6/bin/Debug/net8.0/6.pdb
+/home/gagik/Desktop/Gag/csharp/4TASK/6/obj/Debug/net8.0/6.dll
+/home/gagik/Desktop/Gag/csharp/4TASK/6/obj/Debug/net8.0/refint/6.dll
+/home/gagik/Desktop/Gag/csharp/4TASK/6/obj/Debug/net8.0/6.pdb
+/home/gagik/Desktop/Gag/csharp/4TASK/6/obj/Debug/net8.0/6.genruntimeconfig.cache
+/home/gagik/Desktop/Gag/csharp/4TASK/6/obj/Debug/net8.0/ref/6.dll
