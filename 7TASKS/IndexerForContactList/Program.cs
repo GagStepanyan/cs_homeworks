@@ -64,23 +64,25 @@ class ContactArray {
 }
 
 class Program {
+
     static void Main(string[] args) {
-        Person[] people = new Person[3];
+     Person[] people = new Person[]
+        {
+            new Person(1, "Alice"),
+            new Person(2, "Bob"),
+            new Person(3, "Charlie")
+        };
 
-        people[0] = new Person(1, "Alice");
-        people[1] = new Person(2, "Bob");
-        people[2] = new Person(3, "Charlie");
+        ContactArray contactList = new ContactArray(people);
 
-            ContactArray contactList = new ContactArray(people);
+        Person alice = contactList["Alice"];
+        Person bob = contactList[2];
+        Person dave = contactList["Dave"];
+        Person four = contactList[4];
 
-            Person alice = contactList["Alice"];
-            Person bob = contactList[2];
-            Person dave = contactList["Dave"];
-            Person four = contactList[4];
-
-            Console.WriteLine($"Alice: {(alice != null ? alice.Name : "Not found")}");
-            Console.WriteLine($"Bob: {(bob != null ? bob.Name : "Not found")}");
-            Console.WriteLine($"Dave: {(dave != null ? (dave.Name) : "Not found")}");
-            Console.WriteLine($"4: {(four != null ? (four.Name) : "Not found")}");
-    }
+        Console.WriteLine($"Alice: {(alice != null ? alice.Name : "Not found")}");
+        Console.WriteLine($"Bob: {(bob != null ? bob.Name : "Not found")}");
+        Console.WriteLine($"Dave: {(dave != null ? (dave.Name) : "Not found")}");
+        Console.WriteLine($"4: {(four != null ? (four.Name) : "Not found")}");
+    }    
 }
