@@ -1,0 +1,15 @@
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/IndexerFor3DSpace/obj/Debug/net8.0/IndexerFor3DSpace.GeneratedMSBuildEditorConfig.editorconfig
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/IndexerFor3DSpace/obj/Debug/net8.0/IndexerFor3DSpace.AssemblyInfoInputs.cache
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/IndexerFor3DSpace/obj/Debug/net8.0/IndexerFor3DSpace.AssemblyInfo.cs
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/IndexerFor3DSpace/obj/Debug/net8.0/IndexerFor3DSpace.csproj.CoreCompileInputs.cache
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/IndexerFor3DSpace/obj/Debug/net8.0/IndexerFor3DSpace.sourcelink.json
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/IndexerFor3DSpace/bin/Debug/net8.0/IndexerFor3DSpace
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/IndexerFor3DSpace/bin/Debug/net8.0/IndexerFor3DSpace.deps.json
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/IndexerFor3DSpace/bin/Debug/net8.0/IndexerFor3DSpace.runtimeconfig.json
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/IndexerFor3DSpace/bin/Debug/net8.0/IndexerFor3DSpace.dll
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/IndexerFor3DSpace/bin/Debug/net8.0/IndexerFor3DSpace.pdb
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/IndexerFor3DSpace/obj/Debug/net8.0/IndexerFor3DSpace.dll
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/IndexerFor3DSpace/obj/Debug/net8.0/refint/IndexerFor3DSpace.dll
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/IndexerFor3DSpace/obj/Debug/net8.0/IndexerFor3DSpace.pdb
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/IndexerFor3DSpace/obj/Debug/net8.0/IndexerFor3DSpace.genruntimeconfig.cache
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/IndexerFor3DSpace/obj/Debug/net8.0/ref/IndexerFor3DSpace.dll

@@ -1,0 +1,15 @@
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/StudentGrades/obj/Debug/net8.0/StudentGrades.GeneratedMSBuildEditorConfig.editorconfig
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/StudentGrades/obj/Debug/net8.0/StudentGrades.AssemblyInfoInputs.cache
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/StudentGrades/obj/Debug/net8.0/StudentGrades.AssemblyInfo.cs
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/StudentGrades/obj/Debug/net8.0/StudentGrades.csproj.CoreCompileInputs.cache
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/StudentGrades/obj/Debug/net8.0/StudentGrades.sourcelink.json
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/StudentGrades/bin/Debug/net8.0/StudentGrades
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/StudentGrades/bin/Debug/net8.0/StudentGrades.deps.json
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/StudentGrades/bin/Debug/net8.0/StudentGrades.runtimeconfig.json
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/StudentGrades/bin/Debug/net8.0/StudentGrades.dll
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/StudentGrades/bin/Debug/net8.0/StudentGrades.pdb
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/StudentGrades/obj/Debug/net8.0/StudentGrades.dll
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/StudentGrades/obj/Debug/net8.0/refint/StudentGrades.dll
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/StudentGrades/obj/Debug/net8.0/StudentGrades.pdb
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/StudentGrades/obj/Debug/net8.0/StudentGrades.genruntimeconfig.cache
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/StudentGrades/obj/Debug/net8.0/ref/StudentGrades.dll

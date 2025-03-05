@@ -1,0 +1,15 @@
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/IndexerForContactList/obj/Debug/net8.0/IndexerForContactList.GeneratedMSBuildEditorConfig.editorconfig
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/IndexerForContactList/obj/Debug/net8.0/IndexerForContactList.AssemblyInfoInputs.cache
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/IndexerForContactList/obj/Debug/net8.0/IndexerForContactList.AssemblyInfo.cs
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/IndexerForContactList/obj/Debug/net8.0/IndexerForContactList.csproj.CoreCompileInputs.cache
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/IndexerForContactList/obj/Debug/net8.0/IndexerForContactList.sourcelink.json
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/IndexerForContactList/bin/Debug/net8.0/IndexerForContactList
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/IndexerForContactList/bin/Debug/net8.0/IndexerForContactList.deps.json
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/IndexerForContactList/bin/Debug/net8.0/IndexerForContactList.runtimeconfig.json
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/IndexerForContactList/bin/Debug/net8.0/IndexerForContactList.dll
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/IndexerForContactList/bin/Debug/net8.0/IndexerForContactList.pdb
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/IndexerForContactList/obj/Debug/net8.0/IndexerForContactList.dll
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/IndexerForContactList/obj/Debug/net8.0/refint/IndexerForContactList.dll
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/IndexerForContactList/obj/Debug/net8.0/IndexerForContactList.pdb
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/IndexerForContactList/obj/Debug/net8.0/IndexerForContactList.genruntimeconfig.cache
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/IndexerForContactList/obj/Debug/net8.0/ref/IndexerForContactList.dll

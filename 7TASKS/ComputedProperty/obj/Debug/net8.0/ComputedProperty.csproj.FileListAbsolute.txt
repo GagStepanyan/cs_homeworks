@@ -1,0 +1,15 @@
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/ComputedProperty/obj/Debug/net8.0/ComputedProperty.GeneratedMSBuildEditorConfig.editorconfig
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/ComputedProperty/obj/Debug/net8.0/ComputedProperty.AssemblyInfoInputs.cache
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/ComputedProperty/obj/Debug/net8.0/ComputedProperty.AssemblyInfo.cs
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/ComputedProperty/obj/Debug/net8.0/ComputedProperty.csproj.CoreCompileInputs.cache
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/ComputedProperty/obj/Debug/net8.0/ComputedProperty.sourcelink.json
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/ComputedProperty/bin/Debug/net8.0/ComputedProperty
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/ComputedProperty/bin/Debug/net8.0/ComputedProperty.deps.json
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/ComputedProperty/bin/Debug/net8.0/ComputedProperty.runtimeconfig.json
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/ComputedProperty/bin/Debug/net8.0/ComputedProperty.dll
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/ComputedProperty/bin/Debug/net8.0/ComputedProperty.pdb
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/ComputedProperty/obj/Debug/net8.0/ComputedProperty.dll
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/ComputedProperty/obj/Debug/net8.0/refint/ComputedProperty.dll
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/ComputedProperty/obj/Debug/net8.0/ComputedProperty.pdb
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/ComputedProperty/obj/Debug/net8.0/ComputedProperty.genruntimeconfig.cache
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/ComputedProperty/obj/Debug/net8.0/ref/ComputedProperty.dll

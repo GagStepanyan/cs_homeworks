@@ -1,0 +1,15 @@
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/ValidationAndDefaultValue/bin/Debug/net8.0/ValidationAndDefaultValue
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/ValidationAndDefaultValue/bin/Debug/net8.0/ValidationAndDefaultValue.deps.json
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/ValidationAndDefaultValue/bin/Debug/net8.0/ValidationAndDefaultValue.runtimeconfig.json
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/ValidationAndDefaultValue/bin/Debug/net8.0/ValidationAndDefaultValue.dll
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/ValidationAndDefaultValue/bin/Debug/net8.0/ValidationAndDefaultValue.pdb
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/ValidationAndDefaultValue/obj/Debug/net8.0/ValidationAndDefaultValue.GeneratedMSBuildEditorConfig.editorconfig
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/ValidationAndDefaultValue/obj/Debug/net8.0/ValidationAndDefaultValue.AssemblyInfoInputs.cache
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/ValidationAndDefaultValue/obj/Debug/net8.0/ValidationAndDefaultValue.AssemblyInfo.cs
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/ValidationAndDefaultValue/obj/Debug/net8.0/ValidationAndDefaultValue.csproj.CoreCompileInputs.cache
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/ValidationAndDefaultValue/obj/Debug/net8.0/ValidationAndDefaultValue.sourcelink.json
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/ValidationAndDefaultValue/obj/Debug/net8.0/ValidationAndDefaultValue.dll
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/ValidationAndDefaultValue/obj/Debug/net8.0/refint/ValidationAndDefaultValue.dll
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/ValidationAndDefaultValue/obj/Debug/net8.0/ValidationAndDefaultValue.pdb
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/ValidationAndDefaultValue/obj/Debug/net8.0/ValidationAndDefaultValue.genruntimeconfig.cache
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/ValidationAndDefaultValue/obj/Debug/net8.0/ref/ValidationAndDefaultValue.dll

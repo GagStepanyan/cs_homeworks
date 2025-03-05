@@ -1,0 +1,15 @@
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/LazyInitialization/bin/Debug/net8.0/LazyInitialization
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/LazyInitialization/bin/Debug/net8.0/LazyInitialization.deps.json
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/LazyInitialization/bin/Debug/net8.0/LazyInitialization.runtimeconfig.json
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/LazyInitialization/bin/Debug/net8.0/LazyInitialization.dll
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/LazyInitialization/bin/Debug/net8.0/LazyInitialization.pdb
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/LazyInitialization/obj/Debug/net8.0/LazyInitialization.GeneratedMSBuildEditorConfig.editorconfig
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/LazyInitialization/obj/Debug/net8.0/LazyInitialization.AssemblyInfoInputs.cache
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/LazyInitialization/obj/Debug/net8.0/LazyInitialization.AssemblyInfo.cs
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/LazyInitialization/obj/Debug/net8.0/LazyInitialization.csproj.CoreCompileInputs.cache
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/LazyInitialization/obj/Debug/net8.0/LazyInitialization.sourcelink.json
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/LazyInitialization/obj/Debug/net8.0/LazyInitialization.dll
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/LazyInitialization/obj/Debug/net8.0/refint/LazyInitialization.dll
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/LazyInitialization/obj/Debug/net8.0/LazyInitialization.pdb
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/LazyInitialization/obj/Debug/net8.0/LazyInitialization.genruntimeconfig.cache
+/home/gagik/Desktop/Gag/csharp/fakeFolder/7TASKS/LazyInitialization/obj/Debug/net8.0/ref/LazyInitialization.dll
