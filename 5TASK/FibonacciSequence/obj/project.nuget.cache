@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VTYAdgg6ycydleTl+lmr5T2x3bLKVVTobesGXFCsamrt76bDFSgiG+iCa8VhgCcqF9+o+ybTLxM4s7W8gSMStw==",
+  "dgSpecHash": "H0vDF/yNDjrudf+GrxiR2J6DRp0hWY8Kr9/SMXxIoWATTXqOUdYMRLUjcSZTfMaw61bXLiQDN9fHGZszCTkdhw==",
   "success": true,
-  "projectFilePath": "/home/gagik/Desktop/Gag/csharp/5TASK/8/8.csproj",
+  "projectFilePath": "/home/gagik/Desktop/Gag/csharp/fakeFolder/5TASK/FibonacciSequence/8.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

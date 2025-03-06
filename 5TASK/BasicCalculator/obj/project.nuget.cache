@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xK5+qgKDslkr+LM8Q1f2yR/bpv4GbOQqlMR1+keYMawivL97HgaOGWMgO/PuCzamsXDn9GAGivJo4KisTNM7Ww==",
+  "dgSpecHash": "RzgUlb+CgHlGuclb1UwHs+H8PL1R2DjYCRbtIHSc9d5zMLWfXaA9DfgJGazG0tR0t0lrSBChm4RPs16G/z96bw==",
   "success": true,
-  "projectFilePath": "/home/gagik/Desktop/Gag/csharp/5TASK/1/1.csproj",
+  "projectFilePath": "/home/gagik/Desktop/Gag/csharp/fakeFolder/5TASK/BasicCalculator/1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

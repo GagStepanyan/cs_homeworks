@@ -36,11 +36,11 @@ class Program {
 
     public static void Calculate() {
         Console.WriteLine("Enter the first number ('X' to exit)");
-        string input1 = Console.ReadLine();
+        string? input1 = Console.ReadLine();
         if (input1 == "x" || input1 == "X") {
             return;
         }
-        foreach(char c in input1) {
+        foreach(char c in input1!) {
             if (!char.IsDigit(c)) {
                 return;
             }
@@ -49,11 +49,11 @@ class Program {
         int num1 = int.Parse(input1);
 
         Console.WriteLine("Enter the second number ('X' to exit)");
-        string input2 = Console.ReadLine();
+        string? input2 = Console.ReadLine();
         if (input2 == "x" || input2 == "X") {
             return;
         }
-        foreach(char c in input2) {
+        foreach(char c in input2!) {
             if (!char.IsDigit(c)) {
                 return;
             }
@@ -62,8 +62,8 @@ class Program {
         int num2 = int.Parse(input2);
 
         Console.WriteLine("Enter the operation '+' '-' '/' '*'");
-        string operation = Console.ReadLine();
-        if (operation == "x" || operation == "X") {
+        string? operation = Console.ReadLine();
+        if (operation! == "x" || operation! == "X") {
             return;
         }
 

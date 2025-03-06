@@ -28,16 +28,16 @@ class Program {
             Console.WriteLine("Invalid size");
             return;
         }
-        string[] strings = new string[size];
+        string?[] strings = new string[size];
         
         Console.WriteLine($"Enter {size} words");
-        for (int i = 0; i < strings.Length; ++i) {
+        for (int i = 0; i < strings!.Length; ++i) {
             Console.Write($"{i + 1})Word: ");
-            strings[i] = Console.ReadLine();
+            strings![i] = Console.ReadLine();
         }
 
         Console.WriteLine();
-        Console.WriteLine($"The Longest Word is: {FindTheLongestWord(strings)}");
+        Console.WriteLine($"The Longest Word is: {FindTheLongestWord(strings!)}");
         Console.WriteLine();        
     }
 }

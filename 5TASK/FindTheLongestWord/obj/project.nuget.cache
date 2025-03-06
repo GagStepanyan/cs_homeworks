@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BWspS5LecOwF+WfYQ60OWKmUVZGxXjRIxzlE6NKgngRNvJ0fOwSzHdip/oHSMCSzFto0DZgigpMgh3X8nTGoOQ==",
+  "dgSpecHash": "lvOh/zlbnBmU9SXVSaqFSS1TkyhjMMpX0ttTIWk5Hq1Fz+sKwaxLGG7QgM2Q3xiorRI7TNI27Rm646/vNPUBew==",
   "success": true,
-  "projectFilePath": "/home/gagik/Desktop/Gag/csharp/5TASK/10/10.csproj",
+  "projectFilePath": "/home/gagik/Desktop/Gag/csharp/fakeFolder/5TASK/FindTheLongestWord/10.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
