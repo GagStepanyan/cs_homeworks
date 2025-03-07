@@ -86,7 +86,7 @@ class BigInt {
                 }
             }
 
-            return false; // Numbers are equal
+            return false;
     }
 
         bool negativeRes = false;
