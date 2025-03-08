@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/gagik/Desktop/Gag/csharp/6TASKS/BigInt/3.csproj": {}
+    "/home/gagik/Desktop/Gag/csharp/fakeFolder/6TASKS/BigInt/3.csproj": {}
   },
   "projects": {
-    "/home/gagik/Desktop/Gag/csharp/6TASKS/BigInt/3.csproj": {
+    "/home/gagik/Desktop/Gag/csharp/fakeFolder/6TASKS/BigInt/3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/gagik/Desktop/Gag/csharp/6TASKS/BigInt/3.csproj",
+        "projectUniqueName": "/home/gagik/Desktop/Gag/csharp/fakeFolder/6TASKS/BigInt/3.csproj",
         "projectName": "3",
-        "projectPath": "/home/gagik/Desktop/Gag/csharp/6TASKS/BigInt/3.csproj",
+        "projectPath": "/home/gagik/Desktop/Gag/csharp/fakeFolder/6TASKS/BigInt/3.csproj",
         "packagesPath": "/home/gagik/.nuget/packages/",
-        "outputPath": "/home/gagik/Desktop/Gag/csharp/6TASKS/BigInt/obj/",
+        "outputPath": "/home/gagik/Desktop/Gag/csharp/fakeFolder/6TASKS/BigInt/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/gagik/.nuget/NuGet/NuGet.Config"
