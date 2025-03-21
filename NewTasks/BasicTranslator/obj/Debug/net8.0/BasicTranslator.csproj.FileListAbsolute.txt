@@ -1,0 +1,14 @@
+/home/gagik/Desktop/Gag/csharp/Marjinyan/BasicTranslator/obj/Debug/net8.0/BasicTranslator.GeneratedMSBuildEditorConfig.editorconfig
+/home/gagik/Desktop/Gag/csharp/Marjinyan/BasicTranslator/obj/Debug/net8.0/BasicTranslator.AssemblyInfoInputs.cache
+/home/gagik/Desktop/Gag/csharp/Marjinyan/BasicTranslator/obj/Debug/net8.0/BasicTranslator.AssemblyInfo.cs
+/home/gagik/Desktop/Gag/csharp/Marjinyan/BasicTranslator/obj/Debug/net8.0/BasicTranslator.csproj.CoreCompileInputs.cache
+/home/gagik/Desktop/Gag/csharp/Marjinyan/BasicTranslator/bin/Debug/net8.0/BasicTranslator
+/home/gagik/Desktop/Gag/csharp/Marjinyan/BasicTranslator/bin/Debug/net8.0/BasicTranslator.deps.json
+/home/gagik/Desktop/Gag/csharp/Marjinyan/BasicTranslator/bin/Debug/net8.0/BasicTranslator.runtimeconfig.json
+/home/gagik/Desktop/Gag/csharp/Marjinyan/BasicTranslator/bin/Debug/net8.0/BasicTranslator.dll
+/home/gagik/Desktop/Gag/csharp/Marjinyan/BasicTranslator/bin/Debug/net8.0/BasicTranslator.pdb
+/home/gagik/Desktop/Gag/csharp/Marjinyan/BasicTranslator/obj/Debug/net8.0/BasicTranslator.dll
+/home/gagik/Desktop/Gag/csharp/Marjinyan/BasicTranslator/obj/Debug/net8.0/refint/BasicTranslator.dll
+/home/gagik/Desktop/Gag/csharp/Marjinyan/BasicTranslator/obj/Debug/net8.0/BasicTranslator.pdb
+/home/gagik/Desktop/Gag/csharp/Marjinyan/BasicTranslator/obj/Debug/net8.0/BasicTranslator.genruntimeconfig.cache
+/home/gagik/Desktop/Gag/csharp/Marjinyan/BasicTranslator/obj/Debug/net8.0/ref/BasicTranslator.dll

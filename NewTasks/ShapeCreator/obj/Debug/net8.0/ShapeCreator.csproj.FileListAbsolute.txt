@@ -1,0 +1,14 @@
+/home/gagik/Desktop/Gag/csharp/Marjinyan/ShapeCreator/obj/Debug/net8.0/ShapeCreator.GeneratedMSBuildEditorConfig.editorconfig
+/home/gagik/Desktop/Gag/csharp/Marjinyan/ShapeCreator/obj/Debug/net8.0/ShapeCreator.AssemblyInfoInputs.cache
+/home/gagik/Desktop/Gag/csharp/Marjinyan/ShapeCreator/obj/Debug/net8.0/ShapeCreator.AssemblyInfo.cs
+/home/gagik/Desktop/Gag/csharp/Marjinyan/ShapeCreator/obj/Debug/net8.0/ShapeCreator.csproj.CoreCompileInputs.cache
+/home/gagik/Desktop/Gag/csharp/Marjinyan/ShapeCreator/bin/Debug/net8.0/ShapeCreator
+/home/gagik/Desktop/Gag/csharp/Marjinyan/ShapeCreator/bin/Debug/net8.0/ShapeCreator.deps.json
+/home/gagik/Desktop/Gag/csharp/Marjinyan/ShapeCreator/bin/Debug/net8.0/ShapeCreator.runtimeconfig.json
+/home/gagik/Desktop/Gag/csharp/Marjinyan/ShapeCreator/bin/Debug/net8.0/ShapeCreator.dll
+/home/gagik/Desktop/Gag/csharp/Marjinyan/ShapeCreator/bin/Debug/net8.0/ShapeCreator.pdb
+/home/gagik/Desktop/Gag/csharp/Marjinyan/ShapeCreator/obj/Debug/net8.0/ShapeCreator.dll
+/home/gagik/Desktop/Gag/csharp/Marjinyan/ShapeCreator/obj/Debug/net8.0/refint/ShapeCreator.dll
+/home/gagik/Desktop/Gag/csharp/Marjinyan/ShapeCreator/obj/Debug/net8.0/ShapeCreator.pdb
+/home/gagik/Desktop/Gag/csharp/Marjinyan/ShapeCreator/obj/Debug/net8.0/ShapeCreator.genruntimeconfig.cache
+/home/gagik/Desktop/Gag/csharp/Marjinyan/ShapeCreator/obj/Debug/net8.0/ref/ShapeCreator.dll

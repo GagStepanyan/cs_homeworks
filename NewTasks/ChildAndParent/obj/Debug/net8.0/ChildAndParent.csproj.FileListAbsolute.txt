@@ -1,0 +1,14 @@
+/home/gagik/Desktop/Gag/csharp/Marjinyan/ChildAndParent/obj/Debug/net8.0/ChildAndParent.GeneratedMSBuildEditorConfig.editorconfig
+/home/gagik/Desktop/Gag/csharp/Marjinyan/ChildAndParent/obj/Debug/net8.0/ChildAndParent.AssemblyInfoInputs.cache
+/home/gagik/Desktop/Gag/csharp/Marjinyan/ChildAndParent/obj/Debug/net8.0/ChildAndParent.AssemblyInfo.cs
+/home/gagik/Desktop/Gag/csharp/Marjinyan/ChildAndParent/obj/Debug/net8.0/ChildAndParent.csproj.CoreCompileInputs.cache
+/home/gagik/Desktop/Gag/csharp/Marjinyan/ChildAndParent/bin/Debug/net8.0/ChildAndParent
+/home/gagik/Desktop/Gag/csharp/Marjinyan/ChildAndParent/bin/Debug/net8.0/ChildAndParent.deps.json
+/home/gagik/Desktop/Gag/csharp/Marjinyan/ChildAndParent/bin/Debug/net8.0/ChildAndParent.runtimeconfig.json
+/home/gagik/Desktop/Gag/csharp/Marjinyan/ChildAndParent/bin/Debug/net8.0/ChildAndParent.dll
+/home/gagik/Desktop/Gag/csharp/Marjinyan/ChildAndParent/bin/Debug/net8.0/ChildAndParent.pdb
+/home/gagik/Desktop/Gag/csharp/Marjinyan/ChildAndParent/obj/Debug/net8.0/ChildAndParent.dll
+/home/gagik/Desktop/Gag/csharp/Marjinyan/ChildAndParent/obj/Debug/net8.0/refint/ChildAndParent.dll
+/home/gagik/Desktop/Gag/csharp/Marjinyan/ChildAndParent/obj/Debug/net8.0/ChildAndParent.pdb
+/home/gagik/Desktop/Gag/csharp/Marjinyan/ChildAndParent/obj/Debug/net8.0/ChildAndParent.genruntimeconfig.cache
+/home/gagik/Desktop/Gag/csharp/Marjinyan/ChildAndParent/obj/Debug/net8.0/ref/ChildAndParent.dll

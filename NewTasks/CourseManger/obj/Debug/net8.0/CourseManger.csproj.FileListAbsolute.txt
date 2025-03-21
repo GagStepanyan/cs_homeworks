@@ -1,0 +1,14 @@
+/home/gagik/Desktop/Gag/csharp/Marjinyan/CourseManger/obj/Debug/net8.0/CourseManger.GeneratedMSBuildEditorConfig.editorconfig
+/home/gagik/Desktop/Gag/csharp/Marjinyan/CourseManger/obj/Debug/net8.0/CourseManger.AssemblyInfoInputs.cache
+/home/gagik/Desktop/Gag/csharp/Marjinyan/CourseManger/obj/Debug/net8.0/CourseManger.AssemblyInfo.cs
+/home/gagik/Desktop/Gag/csharp/Marjinyan/CourseManger/obj/Debug/net8.0/CourseManger.csproj.CoreCompileInputs.cache
+/home/gagik/Desktop/Gag/csharp/Marjinyan/CourseManger/bin/Debug/net8.0/CourseManger
+/home/gagik/Desktop/Gag/csharp/Marjinyan/CourseManger/bin/Debug/net8.0/CourseManger.deps.json
+/home/gagik/Desktop/Gag/csharp/Marjinyan/CourseManger/bin/Debug/net8.0/CourseManger.runtimeconfig.json
+/home/gagik/Desktop/Gag/csharp/Marjinyan/CourseManger/bin/Debug/net8.0/CourseManger.dll
+/home/gagik/Desktop/Gag/csharp/Marjinyan/CourseManger/bin/Debug/net8.0/CourseManger.pdb
+/home/gagik/Desktop/Gag/csharp/Marjinyan/CourseManger/obj/Debug/net8.0/CourseManger.dll
+/home/gagik/Desktop/Gag/csharp/Marjinyan/CourseManger/obj/Debug/net8.0/refint/CourseManger.dll
+/home/gagik/Desktop/Gag/csharp/Marjinyan/CourseManger/obj/Debug/net8.0/CourseManger.pdb
+/home/gagik/Desktop/Gag/csharp/Marjinyan/CourseManger/obj/Debug/net8.0/CourseManger.genruntimeconfig.cache
+/home/gagik/Desktop/Gag/csharp/Marjinyan/CourseManger/obj/Debug/net8.0/ref/CourseManger.dll

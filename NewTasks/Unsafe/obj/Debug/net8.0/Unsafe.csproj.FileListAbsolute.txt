@@ -1,0 +1,14 @@
+/home/gagik/Desktop/Gag/csharp/Marjinyan/Unsafe/bin/Debug/net8.0/Unsafe
+/home/gagik/Desktop/Gag/csharp/Marjinyan/Unsafe/bin/Debug/net8.0/Unsafe.deps.json
+/home/gagik/Desktop/Gag/csharp/Marjinyan/Unsafe/bin/Debug/net8.0/Unsafe.runtimeconfig.json
+/home/gagik/Desktop/Gag/csharp/Marjinyan/Unsafe/bin/Debug/net8.0/Unsafe.dll
+/home/gagik/Desktop/Gag/csharp/Marjinyan/Unsafe/bin/Debug/net8.0/Unsafe.pdb
+/home/gagik/Desktop/Gag/csharp/Marjinyan/Unsafe/obj/Debug/net8.0/Unsafe.GeneratedMSBuildEditorConfig.editorconfig
+/home/gagik/Desktop/Gag/csharp/Marjinyan/Unsafe/obj/Debug/net8.0/Unsafe.AssemblyInfoInputs.cache
+/home/gagik/Desktop/Gag/csharp/Marjinyan/Unsafe/obj/Debug/net8.0/Unsafe.AssemblyInfo.cs
+/home/gagik/Desktop/Gag/csharp/Marjinyan/Unsafe/obj/Debug/net8.0/Unsafe.csproj.CoreCompileInputs.cache
+/home/gagik/Desktop/Gag/csharp/Marjinyan/Unsafe/obj/Debug/net8.0/Unsafe.dll
+/home/gagik/Desktop/Gag/csharp/Marjinyan/Unsafe/obj/Debug/net8.0/refint/Unsafe.dll
+/home/gagik/Desktop/Gag/csharp/Marjinyan/Unsafe/obj/Debug/net8.0/Unsafe.pdb
+/home/gagik/Desktop/Gag/csharp/Marjinyan/Unsafe/obj/Debug/net8.0/Unsafe.genruntimeconfig.cache
+/home/gagik/Desktop/Gag/csharp/Marjinyan/Unsafe/obj/Debug/net8.0/ref/Unsafe.dll
